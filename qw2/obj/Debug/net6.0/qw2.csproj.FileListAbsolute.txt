@@ -1,0 +1,15 @@
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\bin\Debug\net6.0\qw2.exe
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\bin\Debug\net6.0\qw2.deps.json
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\bin\Debug\net6.0\qw2.runtimeconfig.json
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\bin\Debug\net6.0\qw2.dll
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\bin\Debug\net6.0\qw2.pdb
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.csproj.AssemblyReference.cache
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.AssemblyInfoInputs.cache
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.AssemblyInfo.cs
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.csproj.CoreCompileInputs.cache
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.dll
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\refint\qw2.dll
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.pdb
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\qw2.genruntimeconfig.cache
+C:\Users\Арина Козаренко\Desktop\Danil\Знакомство с языками програмирования\qwerty\qwert\qw2\obj\Debug\net6.0\ref\qw2.dll
